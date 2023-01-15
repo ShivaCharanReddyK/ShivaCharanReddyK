@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiva Charan Reddy Kallem</h1>
 <h3 align="center">Passionate developer constantly learning and improving</h3>
 
-- 🔭 I’m currently working on **OpenCV**
+- 🔭 I’m currently working on **OpenCV Projects**
 
 - 🌱 I’m currently learning **AI and ML**
 
