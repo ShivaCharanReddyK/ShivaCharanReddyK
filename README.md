@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shiva%20Charan%20Reddy%20Kallem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shiva%20Charan%20Reddy%20Kallem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20AI%20Developer%20%7C%20Python%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=18" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Shiva+Charan+%F0%9F%91%8B;Passionate+Developer+%26+Lifelong+Learner;Building+cool+things+with+AI+%26+ML;OpenCV+%7C+Deep+Learning+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shiva+Charan+%F0%9F%91%8B;Full+Stack+AI+Developer;Python+%7C+React+%7C+Node.js+%7C+Flask;Building+scalable+AI-enabled+applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,12 @@
 
 ## About Me
 
-- Currently working on **OpenCV Projects and ML Projects**
-- Currently learning **AI, Machine Learning & Deep Learning**
-- Passionate about turning data into intelligent solutions
-- Goal: Build impactful AI-powered applications
-- Fun fact: I debug with `print()` and I'm proud of it
+Computer Science graduate passionate about building **scalable AI-enabled applications**. I enjoy working across the full stack — from designing reliable APIs to building intelligent ML-powered features.
+
+- 🎓 **B.Tech in Computer Science & Engineering** — Hyderabad Institute of Technology and Management (2021–2024)
+- 🌱 Currently deepening my knowledge in **AI, LLMs, and full-stack development**
+- 🚀 Seeking an entry-level **Full Stack AI Developer** role
+- 📍 Based in **Hyderabad, India**
 
 ---
 
@@ -31,37 +32,76 @@
 
 ---
 
-## Languages & Tools
+## Projects
 
-**Programming Languages**
+### 🤖 [Python Coding Agent with Gemini — CLI Tool](https://github.com/ShivaCharanReddyK/Coding_agent)
+> **Python · Google Gemini AI**
+
+A command-line tool that automates and assists with coding tasks using Google Gemini AI. Implements predefined functions to analyze and manipulate files in a directory — including reading, overwriting, and executing Python scripts.
+
+---
+
+### 🎓 LearnFlow — AI-Powered Education Platform
+> **Node.js · Express · MongoDB · Python · Google Gemini AI**
+
+Full-stack platform with AI-driven program recommendations based on student academic backgrounds. Features a role-based dashboard for students and counselors, MongoDB Atlas cloud data management, and a dynamic filtering system for program discovery.
+
+---
+
+### 🛒 [Full-Stack E-Commerce Website (MERN)](https://github.com/ShivaCharanReddyK/E-Commerce)
+> **MongoDB · Express · React · Node.js**
+
+A complete online shopping platform with product browsing, name-based search, and a digital shopping cart. Built with a responsive frontend and a backend REST API handling product data and user orders.
+
+---
+
+### 🌿 [Tomato Plant Disease Classification Using CNN](https://github.com/ShivaCharanReddyK/Plant-Disease-Classification)
+> **Python · Flask · CNN · Jupyter Notebook**
+
+Flask-based REST API for real-time image uploads and disease classification. Built a CNN model achieving high accuracy in classifying tomato plant diseases, with RESTful APIs for backend-frontend communication.
+
+---
+
+## Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**AI / ML & Data Science**
+**Frontend**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Web & Databases**
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Cloud & DevTools**
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Certifications
+
+- 📜 **Google Data Analytics Professional Certificate** — Coursera (Jan 2024)
+- ☁️ **Cloud Computing** — NPTEL (Oct 2023)
+- 🖥️ **IBM SkillsBuild Front End Internship (6 Weeks)** — IBM (July 2023)
 
 ---
 
